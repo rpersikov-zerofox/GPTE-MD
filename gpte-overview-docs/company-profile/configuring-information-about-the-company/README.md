@@ -105,7 +105,7 @@ To upload a company logo,
 
 1. On the **My Company** menu, click **My Company**. The My Company page appears.
 
-<figure><img src="../../.gitbook/assets/image.png" alt="" width="361"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5).png" alt="" width="361"><figcaption></figcaption></figure>
 
 2. Click **Edit** icon at the Logo section.
 3. Browse to the file you want to upload.
@@ -119,7 +119,7 @@ To upload a signature
 
 1. On the **My Company** menu, click **My Company**. The My Company page appears.
 
-&#x20;<img src="../../.gitbook/assets/image (1).png" alt="" data-size="original">
+&#x20;<img src="../../.gitbook/assets/image (1) (1).png" alt="" data-size="original">
 
 1. Click **Edit** icon at the Signature section.
 2. Browse to the file you want to upload.
@@ -137,7 +137,7 @@ To upload a new document,
 1. On the **My Company** menu, click **My Company**. The My Company page appears;
 2. On the Documents tab, click **Upload**. The Upload New Document window appears:
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 3. Fill in the required information:
 

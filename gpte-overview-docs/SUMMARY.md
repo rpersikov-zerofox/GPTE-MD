@@ -45,8 +45,24 @@
 
 * [Company Profile](company-profile/company-profile.md)
 * [Configuring Information about the Company](company-profile/configuring-information-about-the-company/README.md)
-  * [Page 2](company-profile/configuring-information-about-the-company/page-2.md)
-  * [Page 3](company-profile/configuring-information-about-the-company/page-3.md)
+  * [Sign](company-profile/configuring-information-about-the-company/sign.md)
+  * [Docs](company-profile/configuring-information-about-the-company/docs.md)
 * [Managing Company Users](company-profile/managing-company-users/README.md)
-  * [Page 1](company-profile/managing-company-users/page-1.md)
-  * [Page](company-profile/managing-company-users/page.md)
+  * [Creating New User Profile](company-profile/managing-company-users/creating-new-user-profile/README.md)
+    * [User roles](company-profile/managing-company-users/creating-new-user-profile/user-roles.md)
+  * [Uploading User Avatar](company-profile/managing-company-users/uploading-user-avatar.md)
+  * [Uploading User Documents](company-profile/managing-company-users/uploading-user-documents.md)
+  * [Modifying Users](company-profile/managing-company-users/modifying-users.md)
+
+## Company Profile Settings
+
+* [UI settings](company-profile-settings/ui-settings.md)
+* [Configuring Company URL](company-profile-settings/configuring-company-url.md)
+* [Uploading Images and Icons](company-profile-settings/uploading-images-and-icons.md)
+* [Setting Preferences for Locations](company-profile-settings/setting-preferences-for-locations.md)
+* [Setting Preferences for Localization](company-profile-settings/setting-preferences-for-localization/README.md)
+  * [Multilingual Description](company-profile-settings/setting-preferences-for-localization/multilingual-description.md)
+* [API settings](company-profile-settings/api-settings/README.md)
+  * [Importing Data to GP from an External System](company-profile-settings/api-settings/importing-data-to-gp-from-an-external-system.md)
+* [Generating API key](company-profile-settings/generating-api-key.md)
+* [Exporting Data to External Applications](company-profile-settings/exporting-data-to-external-applications.md)
