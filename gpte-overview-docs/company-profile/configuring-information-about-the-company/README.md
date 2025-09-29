@@ -94,3 +94,63 @@ In the **Additional information** group, specify the following:
 In the **Comments text field**, you can enter any additional information about the company. Visible only for Tour operator
 
 </details>
+
+<details>
+
+<summary>Uploading a logo and/or signature</summary>
+
+You can upload images to the system and use them for different purposes.\
+For example, in the company profile, you can upload a company logo and a signature to show on company documents (e.g. _vouchers, invoices\&reports_).\
+To upload a company logo,
+
+1. On the **My Company** menu, click **My Company**. The My Company page appears.
+
+<figure><img src="../../.gitbook/assets/image.png" alt="" width="361"><figcaption></figcaption></figure>
+
+2. Click **Edit** icon at the Logo section.
+3. Browse to the file you want to upload.
+4. Click **Open**. New logo is uploaded.
+
+{% hint style="info" %}
+Please, note that this logo will NOT be used as a part of header of the system. If you want to configure the header – please see instructions within _Company Profile Settings_.
+{% endhint %}
+
+To upload a signature
+
+1. On the **My Company** menu, click **My Company**. The My Company page appears.
+
+&#x20;<img src="../../.gitbook/assets/image (1).png" alt="" data-size="original">
+
+1. Click **Edit** icon at the Signature section.
+2. Browse to the file you want to upload.
+3. Click **Open**. New signature is uploaded.
+
+</details>
+
+<details>
+
+<summary>Uploading company documents</summary>
+
+On the Documents tab, you can upload documents related to the company. _E.g. contracts, price lists, guarantee letters etc._ Uploading documents in advance helps you to store the documents in the system and have access to them anytime when needed.\
+To upload a new document,
+
+1. On the **My Company** menu, click **My Company**. The My Company page appears;
+2. On the Documents tab, click **Upload**. The Upload New Document window appears:
+
+<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+
+3. Fill in the required information:
+
+* Select the _document type_ from the drop-down. In case there is no suitable document type, click **Other**.
+* Set the _validity period_ - specify the starting and the finishing date of the period. Please, note that these parameters don’t have any special logic behind them, they are specified just for information.
+
+4\. To upload a document from your PC,
+
+* Click in the **Document** field.
+* Browse to the document you want to upload.
+* Click **Open**.
+* Click **Save**. The document is uploaded.
+
+</details>
+
+Click **Save** to save changes or **Cancel** to discard the changes.
