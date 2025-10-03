@@ -21,10 +21,14 @@ You can integrate the system with multiple external applications used within you
 
 To get access to API:
 
+<figure><img src="../../../.gitbook/assets/api edit 1.png" alt=""><figcaption></figcaption></figure>
+
 1. On the Navigation menu, click **My** **Company** -> **Settings** tab.
 2. On the Settings tab, click **Edit** to switch to editing mode.
 3. Generate your API key and configure all necessary settings.
 4. Click **Save**.
+
+<figure><img src="../../../.gitbook/assets/api edit 2.png" alt=""><figcaption></figcaption></figure>
 
 Note that interaction with system can happen in different ways:
 

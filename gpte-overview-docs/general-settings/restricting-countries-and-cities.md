@@ -1,10 +1,10 @@
 # Restricting Countries and Cities
 
-![Warning](https://pf-emoji-service--cdn.us-east-1.prod.public.atl-paas.net/atlassian/productivityEmojis/exclamation-64px.png)**This functionality is currently available via administration panel.**
+{% hint style="warning" %}
+This functionality is currently available via administration panel.
+{% endhint %}
 
-By default the search form displays all countries and cities of the world. If you work with only a few major destinations you can limit the number of countries and cities displayed in the search form.
-
-For that,
+By default the search form displays all countries and cities of the world. If you work with only a few major destinations you can limit the number of countries and cities displayed in the search form. To do it:
 
 1.  On the general settings menu, click Restricted locations:
 

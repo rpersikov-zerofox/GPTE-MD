@@ -6,7 +6,9 @@
 * [Creating Links](https://gp-team.atlassian.net/wiki/spaces/GPTEUG/pages/1922255831/GPTE+News+Links#Creating-Links)
 * [Viewing the List of Links](https://gp-team.atlassian.net/wiki/spaces/GPTEUG/pages/1922255831/GPTE+News+Links#Viewing-the-List-of-Links)
 
-![Warning](https://pf-emoji-service--cdn.us-east-1.prod.public.atl-paas.net/atlassian/productivityEmojis/exclamation-64px.png)**These functionalities are currently available via administration panel.**
+{% hint style="warning" %}
+This functionality is currently available via administration panel.
+{% endhint %}
 
 With GP Travel Enterprise, you can create news, share links and publish tips which are displayed on the Home page. A user can see them upon logging in the system:
 

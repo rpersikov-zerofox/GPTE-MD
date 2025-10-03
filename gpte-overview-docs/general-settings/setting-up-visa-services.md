@@ -3,7 +3,9 @@
 * [List of countries and visa service](https://gp-team.atlassian.net/wiki/spaces/GPTEUG/pages/1922255789/GPTE+Setting+up+Visa+Services#List-of-countries-and-visa-service)
 * [Downloading a list of countries with visa services](https://gp-team.atlassian.net/wiki/spaces/GPTEUG/pages/1922255789/GPTE+Setting+up+Visa+Services#Downloading-a-list-of-countries-with-visa-services)
 
-![Warning](https://pf-emoji-service--cdn.us-east-1.prod.public.atl-paas.net/atlassian/productivityEmojis/exclamation-64px.png)**This functionality is currently available via administration panel.**
+{% hint style="warning" %}
+This functionality is currently available via administration panel.
+{% endhint %}
 
 The system can provide information about visa regulations and visa services rendered by suppliers in certain countries.
 
