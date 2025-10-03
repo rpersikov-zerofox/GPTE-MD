@@ -1,5 +1,5 @@
 ---
-cover: ../../.gitbook/assets/gpback.png
+cover: ../.gitbook/assets/gpback.png
 coverY: 0
 layout:
   width: default
@@ -24,7 +24,7 @@ layout:
 
 In GP Travel Enterprise all the reservations are stored in one directory. To view the list of reservations, click **Reservations** in the Navigation bar:
 
-<figure><img src="../../.gitbook/assets/res1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/res1.png" alt=""><figcaption></figcaption></figure>
 
 On the Reservations page, you can fully manage company’s reservations, specifically:
 
