@@ -26,6 +26,6 @@ By default the system will be located on an internal URL (either IP address like
 <figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 In order to link this address to your domain (e.g. [www.abc-travel.com](http://www.abc-travel.com/), please contact support team for assistance. You will be given server IP address that you need to configure within your domain settings, after that support team will link it with your account in the system.\
-Additionally, you can a page where the system redirects after logging out. You can either specify here your login URL or set URL of your official web site.
+Additionally, you can a page where the system redirects after logging out. You can either specify here your login URL or the URL of your official web site.
 
 <figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>

@@ -11,7 +11,7 @@
 ## Technical Architecture
 
 * [Technical Highlights](technical-architecture/03-highlights-advantages.md)
-* [Business Model](technical-architecture/04-business-model.md)
+* [Page 1](technical-architecture/page-1.md)
 
 ## Platform Setup
 
@@ -37,21 +37,21 @@
     * [User roles](company-profile/managing-company-users/creating-new-user/user-roles.md)
   * [Manage Users](company-profile/managing-company-users/manage-users/README.md)
     * [Edit Users](company-profile/managing-company-users/manage-users/edit-users.md)
-    * [Configuring Notifications for Users](company-profile/managing-company-users/manage-users/configuring-notifications-for-users.md)
+    * [!Configuring Notifications for Users](company-profile/managing-company-users/manage-users/configuring-notifications-for-users.md)
     * [Deactivate Users](company-profile/managing-company-users/manage-users/deactivate-users.md)
   * [Uploading User Documents](company-profile/managing-company-users/uploading-user-documents.md)
   * [Uploading User Avatar](company-profile/managing-company-users/uploading-user-avatar.md)
-* [Company Profile Settings](company-profile/company-profile-settings/README.md)
-  * [UI settings](company-profile/company-profile-settings/ui-settings.md)
-  * [Configuring Company URL](company-profile/company-profile-settings/configuring-company-url.md)
-  * [Uploading Images and Icons](company-profile/company-profile-settings/uploading-images-and-icons.md)
-  * [Setting Preferences for Locations](company-profile/company-profile-settings/setting-preferences-for-locations.md)
-  * [Setting Preferences for Localization](company-profile/company-profile-settings/setting-preferences-for-localization/README.md)
-    * [Multilingual Description](company-profile/company-profile-settings/setting-preferences-for-localization/multilingual-description.md)
-  * [API settings](company-profile/company-profile-settings/api-settings/README.md)
-    * [Importing Data to GP from an External System](company-profile/company-profile-settings/api-settings/importing-data-to-gp-from-an-external-system.md)
-    * [Generating API key](company-profile/company-profile-settings/api-settings/generating-api-key.md)
-    * [Exporting Data to External Applications](company-profile/company-profile-settings/api-settings/exporting-data-to-external-applications.md)
+* [Company Profile Settings3](company-profile/company-profile-settings3/README.md)
+  * [UI settings](company-profile/company-profile-settings3/ui-settings.md)
+  * [Configuring Company URL](company-profile/company-profile-settings3/configuring-company-url.md)
+  * [Uploading Images and Icons](company-profile/company-profile-settings3/uploading-images-and-icons.md)
+  * [Setting Preferences for Locations](company-profile/company-profile-settings3/setting-preferences-for-locations.md)
+  * [Setting Preferences for Localization](company-profile/company-profile-settings3/setting-preferences-for-localization/README.md)
+    * [Multilingual Description](company-profile/company-profile-settings3/setting-preferences-for-localization/multilingual-description.md)
+  * [API settings](company-profile/company-profile-settings3/api-settings/README.md)
+    * [Importing Data to GP from an External System](company-profile/company-profile-settings3/api-settings/importing-data-to-gp-from-an-external-system.md)
+    * [Generating API key](company-profile/company-profile-settings3/api-settings/generating-api-key.md)
+    * [Exporting Data to External Applications](company-profile/company-profile-settings3/api-settings/exporting-data-to-external-applications.md)
 
 ## General Settings
 

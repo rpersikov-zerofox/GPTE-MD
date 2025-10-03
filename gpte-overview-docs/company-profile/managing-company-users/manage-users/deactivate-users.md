@@ -22,11 +22,11 @@ To block access to the system
 1. Open the profile of a required user.
 2. Switch off **Active** toggle.
 
+<figure><img src="../../../.gitbook/assets/deact usr 1.png" alt=""><figcaption></figcaption></figure>
+
 {% hint style="warning" %}
 You can deactivate any user **except** for **Director**.
 {% endhint %}
-
-
 
 {% hint style="info" %}
 User profiles are not deleted permanently from the system. All inactive profiles are stored in the archive. You can view the list of the archived users by clicking **Archive** on top of the user list and activate them if needed.

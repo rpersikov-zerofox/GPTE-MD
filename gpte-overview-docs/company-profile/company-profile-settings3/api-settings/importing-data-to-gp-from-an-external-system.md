@@ -17,11 +17,17 @@ layout:
 
 # Importing Data to GP from an External System
 
-In order to configure the loading data to GP from an external system, you need to use the export API.\
+In order to configure the loading data to GP from an external system, you need to use the export API.
+
 To configure export API:
 
 1. Go to **My Company - Settings.**&#x20;
 2. Click **Edit** and choose checkbox **Export data to external applications.**  Configuration form appears.
+
+<figure><img src="../../../.gitbook/assets/api import 1.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../../.gitbook/assets/api import 2.png" alt=""><figcaption></figcaption></figure>
+
 3. The following information must be specified in the configuration form:    &#x20;
 
 * **Name -** name of the system where you want to export data on orders from the GP system
@@ -34,15 +40,13 @@ To configure export API:
 
 **NOTE**
 
-Delete from the GP system all the specified information about an external system.
+{% hint style="success" %}
+Click X button to delete all the specified information about an external system from the GPTE.
 
-<div align="left"><figure><img src="../../../.gitbook/assets/ex1.png" alt="" width="27"><figcaption></figcaption></figure></div>
+Click + button to add external systems for integration and create its own configuration form for each system.
+{% endhint %}
 
-Add several external systems for integration and create  its own configuration form for each external system.
-
-<div align="left"><figure><img src="../../../.gitbook/assets/add1.png" alt="" width="24"><figcaption></figcaption></figure></div>
-
-Next, let's look at the example of loading invoices:
+5. An example of loading invoices:
 
 After receiving a request **POST /issueInvoice** from our system you need to use our method **PUT/invoices** to send an URL of pdf file (invoice), invoice status (paid / unpaid) and the amount.
 
@@ -64,7 +68,7 @@ Example data model:
 **!** **Required fields** are "supplierId", "invoiceId", "paymentStatus", "externalInvoiceId", "invoiceURL".
 {% endhint %}
 
-6\. After receiving the data, the invoice status in the GP system will be "Invoiced" in the "Invoices and payments" section. When you click on the "View invoices" link, a list of invoices will open.
+6. After receiving the data, the invoice status in the GP system will be "Invoiced" in the "Invoices and payments" section. When you click on the "View invoices" link, a list of invoices will open.
 
 {% hint style="danger" %}
 **Invoices functionality is currently available via administration panel.**

@@ -29,5 +29,5 @@ Configuring your company profile is implemented through 3 steps:
 
 1. [Configuring Information about the Company](configuring-information-about-the-company.md)
 2. [Managing Company Users](managing-company-users/)
-3. [Specifying Company Profile Settings](company-profile-settings/)
+3. [Specifying Company Profile Settings](company-profile-settings3/)
 

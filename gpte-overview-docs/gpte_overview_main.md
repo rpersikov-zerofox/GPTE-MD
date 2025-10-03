@@ -29,10 +29,6 @@ This comprehensive guide provides a complete overview of the GP Travel Enterpris
 
 {% include "blocks/02-features-customers.md" %}
 
-## Technical Architecture
-
-{% include "blocks/03-highlights-advantages.md" %}
-
 ## Business Model
 
 {% include "blocks/04-business-model.md" %}
@@ -54,41 +50,3 @@ This comprehensive guide provides a complete overview of the GP Travel Enterpris
 {% include "blocks/08-operational-requirements.md" %}
 
 {% include "blocks/09-data-export-help.md" %}
-
-## Basic Functionality
-
-{% include "blocks/10-basic-functionality.md" %}
-
-### Company Profile
-
-{% include "blocks/11-company-profile.md" %}
-
-### Managing Suppliers
-
-{% include "blocks/12-managing-suppliers.md" %}
-
-{% include "blocks/13-inventory-module.md" %}
-
-### Managing Clients
-
-{% include "blocks/14-managing-clients.md" %}
-
-{% include "blocks/15-multi-level-distribution.md" %}
-
-### Core Operations
-
-{% include "blocks/16-search-and-book.md" %}
-
-{% include "blocks/17-finance-module.md" %}
-
-{% include "blocks/18-analytics-module.md" %}
-
-## Extended Functionality
-
-{% include "blocks/19-extended-functionality.md" %}
-
-{% include "blocks/20-extended-crm.md" %}
-
-***
-
-_This documentation is maintained and updated regularly. For the latest version and updates, please check the GitBook repository._

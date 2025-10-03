@@ -2,18 +2,10 @@
 title: Features and Customers
 ---
 
-**GP Travel Enterprise features:**
+| GP Travel Enterprise features:                                                                                                                                                                                                                                                                                       | Our Customers                                                                                                                                                                              |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| <ul><li>Access to world leading suppliers and GDS’s</li><li>Inventory management with detailed description of travel products, prices and availability</li><li>B2B and B2C online booking</li><li>Comprehensive reservation and finance management</li><li>API for integration with 3rd party applications</li></ul> | <ul><li>Destination Management Companies</li><li>Outbound tour operators</li><li>Online booking portals and OTAs</li><li>Airline companies</li><li>Travel services consolidators</li></ul> |
 
-* Access to world leading suppliers and GDS's
-* Inventory management with detailed description of travel products, prices and availability
-* B2B and B2C online booking
-* Comprehensive reservation and finance management
-* API for integration with 3rd party applications
+# Technical Architecture
 
-**Our Customers:**
-
-* Destination Management Companies
-* Outbound tour operators
-* Online booking portals and OTAs
-* Airline companies
-* Travel services consolidators
+<table><thead><tr><th valign="top">Highlights</th><th>Advantages</th></tr></thead><tbody><tr><td valign="top"><ul><li>Data repository: MySQL (with optional porting to Oracle</li><li>Access: multi-user via the Internet</li><li>Architecture: “client-server” (all business logic is managed on centralized server)</li><li>Accessibility: 24/7, upwards of 99,9% (including time for scheduled updates)</li><li>Programming languages and frameworks of the system: Java, XSLT, JS</li><li>External components: Jasper Reporting, AmCharts, Google/Yandex map</li></ul></td><td><ul><li>Allows permanent access 365/24/7</li><li>Works online via the Internet</li><li>Provides instant booking of travel services directly from suppliers</li><li>Supports multi-user access for suppliers, agencies, tour operators and their staff and individual travelers with different user permissions and change history logging</li><li>Designed for international markets (with multi language descriptions and multi-currency support)</li><li>Allows manual input of currency rates and integration with various financial information sources (banks)</li><li>May be utilized in various configurations</li><li>Enables complex automation of business processes and flexible adaptation to numerous business models</li></ul></td></tr></tbody></table>
