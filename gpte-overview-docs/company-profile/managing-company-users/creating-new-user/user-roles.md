@@ -1,0 +1,24 @@
+---
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+---
+
+# User roles
+
+Upon creating a user profile, every user is assigned with a role. The **role** specifies the rights of a user and controls access to particular information in the system.
+
+The following table describes the roles and rights of the users:
+
+<table><thead><tr><th width="48"></th><th width="121.99993896484375">Role</th><th>Permissions</th></tr></thead><tbody><tr><td>1</td><td>Accountant</td><td><ul><li>Has access to the reservations within the company’s network.</li><li>Can issue invoices on reservations.</li><li>Manages auto cancellation (an accountant can select or clear auto cancellation check box in the reservations).</li><li>Has access to the invoices and can set the terms and conditions for their issuing.</li><li>Has access to financial ledgers.</li></ul></td></tr><tr><td>2</td><td>Agent</td><td><ul><li>Creates and processes reservations for travel products and services.</li><li>Has access only to their own reservations.</li></ul></td></tr><tr><td>3</td><td>Avia sales<br>manager</td><td><ul><li>Creates requests for flights reservations.</li><li>Can view all reservations.</li><li>Can modify reservations (issue e-tickets, cancel and synchronize reservations).</li></ul></td></tr><tr><td>4</td><td>Content<br>manager</td><td>Creates, views and edits descriptions of hotels, direct contracted suppliers and own products.</td></tr><tr><td>5</td><td>Director</td><td><ul><li>Creates users, assigns system access passwords. Modifies data of the users of the company and client companies registered in the system.</li><li>Creates agent network (registers partners, client companies, grants system access to them by creating users, configures contracts).</li><li>Appoints managers, responsible for partner operations. Acts as a manager for partners.</li><li>Browses information on suppliers.</li><li>Creates reservations for travel products and services.</li><li>Manages all reservations within the network (changes data, cancels, modifies status manually, print out vouchers).</li><li>Changes and cancels reservations with the Approval required status (manually).</li><li>Sets general system configurations. Besides users with Director role, only first-level users of the tour operators have this authority.</li><li>Creates tour products.</li><li>Initiates the generation of reports.</li></ul></td></tr><tr><td>6</td><td>Dispatcher</td><td><ul><li>Works with Scheduler.</li><li>Can view group lists and configured transport for solving issues related to schedule.</li></ul></td></tr><tr><td>7</td><td>Driver</td><td><ul><li>Can search for services, but cannot book them.</li><li>Can generate reports.</li></ul></td></tr><tr><td>8</td><td>Guest</td><td>Can search offers but has no right to create a reservation. This role is recommended for demo purpose just to give access for your potential agents/distributors to see your products and prices.</td></tr><tr><td>9</td><td>Guide</td><td><ul><li>Can search for services, but cannot book them.</li><li>Can generate reports.</li></ul></td></tr><tr><td>10</td><td>Manager</td><td><ul><li>Creates and processes reservations for travel products and services.</li><li>Processes reservations, created by the company agents and by clients (client companies), who are assigned to this Manager.</li><li>Browses user information of their own company and client companies to which it is assigned as a Manager.</li></ul></td></tr><tr><td>11</td><td>Supervisor</td><td>Has the same rights as a Director. The only difference is that a Supervisor cannot deactivate a director.</td></tr><tr><td>12</td><td>Sales Staff</td><td><ul><li>Creates and processes bookings for travel products and services.</li><li>Processes bookings created by the company users and by clients (collaborate companies). Has access to all the bookings of the company.</li><li>Reads Only access to the settings of direct sales.</li><li>Reads Only access to the list of legal and private clients.</li><li>Initiates generation of reports.</li></ul></td></tr><tr><td>13</td><td>Sales Manager</td><td><ul><li>Creates and processes bookings for travel products and services.</li><li>Processes bookings created by the company users and by clients (collaborate companies). Has access to all the bookings of the company.</li><li>Reads only access to the list of company users.</li><li>Reads only access to the settings of direct sales.</li><li>Has the full access to the list of legal and private clients.</li><li>Has the limited access to Finance tab.</li><li>Initiates generation of reports.</li></ul></td></tr></tbody></table>

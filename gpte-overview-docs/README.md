@@ -1,4 +1,21 @@
-# README
+---
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+---
+
+# GP Travel Enterprise
 
 Welcome to the GP Travel Enterprise (GPTE) documentation. This comprehensive guide provides detailed information about the GPTE platform, its features, capabilities, and implementation requirements.
 

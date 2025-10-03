@@ -1,12 +1,29 @@
+---
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+---
+
 # Uploading User Documents
 
-You can upload and save different types of documents relating to a user profile, e.g. _passport, photos, signatures, visas_, etc. It helps you to store the information in the system and have the immediate access to the documents at any time.
+You can upload and save different types of documents related to a user profile, e.g. _passport, photos, signatures, visas_, etc. providing immediate access to the documents at any time.
 
 To upload a new document,
 
 1. In the **My Company** menu click **Users**.
 2. Select the user for whom you need to upload a document, and then click **Documents**.
-3. On the **Documents** tab, click **Upload**. The Upload New Document window appears:
+3. On the **Documents** tab, click **Create**. The Upload New Document window appears:
 
 <figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
@@ -17,9 +34,7 @@ Specify the following information:
 
 To upload a file from your PC,
 
-* Click in the **Document** field.
-* Browse to the document you want to upload.
+* Click **Document** field
+* Browse for the document you want to upload.
 * Click **Open**.
-
-Click **Save**. The document is uploaded.\
-5\. Click **Save**.
+* Click **Save**. The document is uploaded.
