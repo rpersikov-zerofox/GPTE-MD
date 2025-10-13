@@ -1,0 +1,13 @@
+version: '3.7'
+
+services:
+  app:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: gpte-harbor-registry.softwaretravel.net/gpte1/gpte-docs-staging:docsify-latest
+    ports:
+      - published: 62080
+        target: 80
+    restart: unless-stopped
+    container_name: gpte-docs-docsify-staging

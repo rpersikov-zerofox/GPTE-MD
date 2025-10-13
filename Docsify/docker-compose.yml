@@ -1,0 +1,11 @@
+version: '3.7'
+
+services:
+  docsify-docs:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: gpte-docs-docsify:latest
+    ports:
+      - "8080:80"
+    restart: unless-stopped

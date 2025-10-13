@@ -1,0 +1,30 @@
+# Exclude non-essential files from Docker build
+.git
+.gitignore
+*.md
+!README.md
+!docs/**/*.md
+
+# Exclude build artifacts
+node_modules
+mkdocs-site
+docusaurus-site
+
+# Exclude development files
+*.py
+*.ps1
+*.sh
+SESSION_SUMMARY.md
+TW_SESSION_HANDOFF.md
+GPTE_TERMINOLOGY_GUIDE.md
+FINAL_SESSION_SUMMARY.md
+all_md_files.txt
+user-manual-files.txt
+generate_*.py
+fix_sidebar_structure.py
+docuserr.txt
+
+# Keep only what's needed for Docsify
+# index.html
+# docs/
+# README.md

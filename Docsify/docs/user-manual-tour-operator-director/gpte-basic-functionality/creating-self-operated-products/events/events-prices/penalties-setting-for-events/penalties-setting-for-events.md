@@ -1,0 +1,1 @@
+# Penalties setting for Events

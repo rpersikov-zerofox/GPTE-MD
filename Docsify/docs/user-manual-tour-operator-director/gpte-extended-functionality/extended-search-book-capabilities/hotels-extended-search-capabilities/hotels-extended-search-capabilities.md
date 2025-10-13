@@ -1,0 +1,2 @@
+# Hotels Extended Search Capabilities
+

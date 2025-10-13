@@ -1,0 +1,11 @@
+services:
+  app:
+    build:
+      context: /opt/workspace/GPTE-CI-CD/Support-Services/Docs-Demo/documentation/md_package
+      dockerfile: Dockerfile
+    image: gpte-harbor-registry.softwaretravel.net/gpte1/gpte-docs-staging@sha256:25aef358cd9347ef03f2e54c9c57d0805c1b0d84f92841b6b49de0dfe0f3b34a
+    ports:
+    - published: 62080
+      target: 80
+version: '3.7'
+
